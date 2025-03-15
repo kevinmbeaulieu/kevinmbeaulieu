@@ -1,7 +1,5 @@
 # 💫 About Me:
-💼 I’m currently doing backend development at Rare Candy<br>
 🎓 I have master's degree in artificial intelligence from Johns Hopkins University and bachelor's degree in computer science and philosophy from Cornell University<br>
-🤝 I’m looking for new opportunities as an AI/ML engineer (or related)<br>
 💬 Ask me about artificial intelligence, large language models, and machine learning
 
 
